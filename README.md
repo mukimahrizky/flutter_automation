@@ -17,6 +17,12 @@ samples, guidance on mobile development, and a full API reference.
 
 ## How To Run
 
+APPS
+
+flutter build apk
+
+flutter run
+
 TEST
 
 flutter test test/widget_test.dart  
