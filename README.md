@@ -27,4 +27,4 @@ flutter drive --target=test_driver/e2e.dart
 
 INTEGRATION TEST
 
-flutter test integration_test/app_test.dart
+flutter test integration_test/e2e_test.dart
