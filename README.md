@@ -17,20 +17,34 @@ samples, guidance on mobile development, and a full API reference.
 
 ## How To Run
 
-APPS
+### APPS
 
 flutter build apk
 
 flutter run
 
-TEST
+### TEST
 
 flutter test test/widget_test.dart  
 
-TEST DRIVER
+### TEST DRIVER
 
 flutter drive --target=test_driver/e2e.dart
 
-INTEGRATION TEST
+### TEST DRIVER BDD
+
+flutter drive --target=test_driver/bdd.dart
+
+### INTEGRATION TEST
 
 flutter test integration_test/e2e_test.dart
+
+## REFERENCES
+
+https://www.youtube.com/playlist?list=PL6tu16kXT9PrzZbUTUscEYOHHTVEKPLha
+
+https://executeautomation.com/course/flutter-driver
+
+https://flutter.dev/docs/testing/integration-tests
+
+https://pub.dev/packages/gherkin
