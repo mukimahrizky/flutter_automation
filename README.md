@@ -25,7 +25,7 @@ flutter drive --target=test_driver/bdd.dart
 ```
 flutter test integration_test/e2e_test.dart
 ```
-## REFERENCES
+## References
 
 https://www.youtube.com/playlist?list=PL6tu16kXT9PrzZbUTUscEYOHHTVEKPLha
 
